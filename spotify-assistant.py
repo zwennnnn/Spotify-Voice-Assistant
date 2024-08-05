@@ -4,7 +4,6 @@ import speech_recognition as sr
 import random
 
 recognizer = sr.Recognizer()
-favorites_file = "favorites.txt"
 song_queue = []
 
 #Spotify Apı bilgileri
