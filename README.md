@@ -52,7 +52,7 @@ Program çalıştığında, sesli komutlarınızı dinlemeye başlar. Şu komutl
 - `favorilerden çıkar [şarkı adı]`: Şarkıyı favorilerden çıkarır.
 - `karışık çal`: Favorileri karışık olarak çalar.
 - `sıralı çal`: Favorileri sıralı olarak çalar.
-- `programdan çık`: Programdan çıkar.
+- `programdan çık`: Programdan çıkış yapar.
 
 
 
