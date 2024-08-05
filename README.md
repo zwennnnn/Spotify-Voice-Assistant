@@ -42,17 +42,17 @@ python spotify.py
 
 Program çalıştığında, sesli komutlarınızı dinlemeye başlar. Şu komutları kullanabilirsiniz:
 
-oynat [şarkı adı] [şarkı sahibi]: Şarkıyı oynatır.
-durdur: Çalan şarkıyı durdurur.
-sonraki: Sonraki şarkıya geçer.
-önceki: Önceki şarkıya döner.
-sıraya ekle [şarkı adı]: Şarkıyı sıraya ekler.
-favorilere ekle: çalan şarkıyı favorilere ekler.
-favorilere ekle [şarkı adı]: Şarkıyı favorilere ekler.
-favorilerden çıkar [şarkı adı]: Şarkıyı favorilerden çıkarır.
-karışık çal: Favorileri karışık olarak çalar.
-sıralı çal: Favorileri sıralı olarak çalar.
-programdan çık: Programdan çıkar.
+- `oynat [şarkı adı] [şarkı sahibi]`: Şarkıyı oynatır.
+- `durdur`: Çalan şarkıyı durdurur.
+- `sonraki`: Sonraki şarkıya geçer.
+- `önceki`: Önceki şarkıya döner.
+- `sıraya ekle [şarkı adı]`: Şarkıyı sıraya ekler.
+- `favorilere ekle`: Çalan şarkıyı favorilere ekler.
+- `favorilere ekle [şarkı adı]`: Şarkıyı favorilere ekler.
+- `favorilerden çıkar [şarkı adı]`: Şarkıyı favorilerden çıkarır.
+- `karışık çal`: Favorileri karışık olarak çalar.
+- `sıralı çal`: Favorileri sıralı olarak çalar.
+- `programdan çık`: Programdan çıkar.
 
 
 
